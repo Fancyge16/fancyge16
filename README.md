@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello, I'm Nancy Ombuna!
 
-<!--
-**Fancyge16/fancyge16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer | 🛒 Shopify Expert | 🌍 Freelancer from Kenya
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about crafting clean, user-friendly websites and Shopify stores that help businesses grow online. Whether you're looking for a landing page, a sleek portfolio, or an eCommerce store — I’m your go-to developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I Do
+- 💡 Custom Websites (HTML, CSS, JavaScript)
+- 🛍️ Shopify Store Setup & Customization
+- 📱 Mobile-Responsive Designs
+- ⚡ Automation with Node.js
+- 🛠️ Troubleshooting & Maintenance
+
+---
+
+## 🌐 Live Projects
+- **[My First Website](https://fancyge16.github.io/my-first-website/)**  
+  A clean and simple landing page built with HTML and CSS.
+
+- *(More projects coming soon!)*
+
+---
+
+## 📫 Let's Work Together
+- 📧 Email: **nancyombuna16@gmail.com**
+- 🌍 Portfolio: [fancyge16.github.io/my-first-website](https://fancyge16.github.io/my-first-website/)
+- 💬 WhatsApp: [+254 712 345678] *(replace this with your real number if you want)*
+
+---
+
+> 🌱 I’m always learning, building, and open to freelance opportunities. Let’s create something amazing together!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fancyge16&show_icons=true&theme=radical)
+
+
