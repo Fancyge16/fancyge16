@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about crafting clean, user-friendly website
 ---
 
 ## 🌐 Live Projects
-- **[My First Website](https://fancyge16.github.io/my-first-website/)**  
+ https://fancyge16.github.io/nancy-portfolio-site/
   A clean and simple landing page built with HTML and CSS.
 
 - *(More projects coming soon!)*
