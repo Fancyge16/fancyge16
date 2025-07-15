@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm passionate about crafting clean, user-friendly website
 
 ## 📫 Let's Work Together
 - 📧 Email: **nancyombuna16@gmail.com**
-- 🌍 Portfolio: [fancyge16.github.io/my-first-website](https://fancyge16.github.io/my-first-website/)
+- 🌍 Portfolio: https://fancyge16.github.io/nancy-portfolio-site/
 - 💬 WhatsApp: [+254 741851656]
 
 ---
